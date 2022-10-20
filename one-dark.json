@@ -9,17 +9,12 @@
 			"id": "533081943638671377"
 		}
 	],
-	"background": {
-		"blur": "1",
-		"url": "https://i.imgur.com/sEkjODE.jpeg",
-		"alpha": "0.69"
-	},
 	"theme_color_map": {
-		"KEYBOARD": ["#000000", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
-		"BACKGROUND_SECONDARY": ["#000000", "#FFFFFF"],
-		"BACKGROUND_SECONDARY_ALT": ["#000000", "#FFFFFF"],
-		"BACKGROUND_TERTIARY": ["#000000", "#FFFFFF"],
+		"KEYBOARD": ["#21252B", "#21252B"],
+		"BACKGROUND_PRIMARY": ["#282C34", "#282C34"],
+		"BACKGROUND_SECONDARY": ["#21252B", "#21252B"],
+		"BACKGROUND_SECONDARY_ALT": ["#262A31", "#262A31"],
+		"BACKGROUND_TERTIARY": ["#333842", "#333842"],
 		"BACKGROUND_ACCENT": ["#000000", "#FFFFFF"],
 		"BACKGROUND_FLOATING": ["#000000", "#FFFFFF"],
 		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
@@ -51,8 +46,5 @@
 		"PRIMARY_DARK_800": "#FFFFFF",
 		"BRAND_NEW": "#FFFFFF",
 		"WHITE": "#FFFFFF"
-	},
-	"unsafe_colors": {
-		"CHAT_GREY": "#000000"
 	}
 }
