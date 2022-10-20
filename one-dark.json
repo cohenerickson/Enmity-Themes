@@ -1,0 +1,23 @@
+{
+	"name": "One Dark",
+	"version": "0.1",
+	"description": "A Discord theme based off of Atom One Dark VS Code extension.",
+	"color": "#282C34",
+	"authors": [
+		{
+			"name": "Sudo",
+			"id": "696446023815397456"
+		}
+	],
+	"theme_color_map": {
+		"KEYBOARD": ["#21252B", "#21252B"],
+		"BACKGROUND_PRIMARY": ["#282C34", "#282C34"],
+		"BACKGROUND_SECONDARY": ["#21252B", "#21252B"],
+		"BACKGROUND_SECONDARY_ALT": ["#262A31", "#262A31"],
+		"BACKGROUND_TERTIARY": ["#333842", "#333842"],
+		"BACKGROUND_ACCENT": ["#528BFF", "#528BFF"]
+		},
+		"unsafe_colors": {
+			"CHAT_GREY": "#324151"
+		}
+}
