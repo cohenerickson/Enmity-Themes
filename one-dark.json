@@ -1,12 +1,12 @@
 {
-	"name": "example",
-	"author": "L+RATIO#1000",
-	"version": "4.2.0",
-	"description": "Your bunk ass theme... Now with BLUR!",
+	"name": "One Dark",
+	"author": "Cohen#9959",
+	"version": "1.0",
+	"description": "A Discord theme based off of Atom One Dark VS Code extension.",
 	"authors": [ 
 		{
-			"name": "NEO",
-			"id": "424806150702366723"
+			"name": "Cohen",
+			"id": "533081943638671377"
 		}
 	],
 	"background": {
