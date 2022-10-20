@@ -10,7 +10,7 @@
 		}
 	],
 	"theme_color_map": {
-		"KEYBOARD": ["#21252B", "#21252B"],
+		"KEYBOARD": ["#333842", "#333842"],
 		"BACKGROUND_PRIMARY": ["#282C34", "#282C34"],
 		"BACKGROUND_SECONDARY": ["#21252B", "#21252B"],
 		"BACKGROUND_SECONDARY_ALT": ["#262A31", "#262A31"],
